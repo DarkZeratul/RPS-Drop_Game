@@ -1,0 +1,16 @@
+To play the game, run it on Firefox and use your mouse or keyboard.
+
+Mouse: 
+- Move your mouse along the canvas to move yourself on the game
+- Left click to change between rock, paper and scissor.
+
+Keyboard
+- Press the left or right arrow key to move yourself on the game
+- Press the space bar to change between rock, paper and scissor.
+
+You start with 45 seconds to score as many points as you can.
+- Winning the rock, paper, and scissor gives you more 4 seconds.
+- Losing the rock, paper, and scissor withdraws from you 4 seconds.
+- Drawing the rock, paper, and scissor withdraws from you 1 seconds.
+- Missing a rock, paper, and scissor withdraws from you 2 seconds.
+
