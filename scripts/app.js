@@ -2,11 +2,11 @@
 
 "use strict";
 
-import { Player } from "./scripts/player.js" ;
-import { GameObject } from "./scripts/game_object.js" ;
-import { Clock } from "./scripts/clock.js";
-import { Score } from "./scripts/score.js";
-import * as Physics from "./scripts/physics.js";
+import { Player } from "./player.js" ;
+import { GameObject } from "./game_object.js" ;
+import { Clock } from "./clock.js";
+import { Score } from "./score.js";
+import * as Physics from "./physics.js";
 import { UPDATE_RATE, RPS, TOTAL_OF_IMAGES } from "./interface.js";
 
 window.onload = function()

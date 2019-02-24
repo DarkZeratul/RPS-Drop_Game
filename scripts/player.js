@@ -1,4 +1,4 @@
-import { TOTAL_OF_FRAMES, FRAMES_PER_ANIMATION } from "./scripts/interface.js";
+import { TOTAL_OF_FRAMES, FRAMES_PER_ANIMATION } from "./interface.js";
 
 
 export class Player
