@@ -2,3 +2,6 @@ Sources: (Free Vector Images)
 https://pixabay.com/pt/pedra-papel-tesoura-pedra-m%C3%A3o-gesto-296854/
 https://pixabay.com/pt/pedra-papel-tesoura-papel-m%C3%A3o-gesto-296855/
 https://pixabay.com/pt/pedra-papel-tesoura-tesoura-m%C3%A3o-296853/
+
+Background-Image:
+https://www.pexels.com/photo/corn-fields-under-white-clouds-with-blue-sky-during-daytime-158827/
